@@ -1,0 +1,41 @@
+[33mcommit 068b2d8b269c7f74e55a516027ab4637bd5d6dd7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Milan Bastola <humanware@live.com>
+Date:   Sun May 21 22:11:54 2017 +0545
+
+    commiting multiple files
+
+[33mcommit e5cafe121aeff2835027b8a981845f69b4ed56a2[m
+Author: Milan Bastola <humanware@live.com>
+Date:   Sun May 21 22:08:48 2017 +0545
+
+    commiting our changes
+
+[33mcommit 9f8ca03f13a2966e1208f7990c0d41d1afd04189[m
+Author: Milan Bastola <humanware@live.com>
+Date:   Sun May 21 22:03:16 2017 +0545
+
+    Saving all files to repo at once
+
+[33mcommit 7dfe985833c0ff4298c2c1b7dca1116b4be8bced[m
+Author: Milan Bastola <humanware@live.com>
+Date:   Sun May 21 21:59:49 2017 +0545
+
+    saving modified gittest.php
+
+[33mcommit 54fcf66e287a7d56d9edae70c37b219c803ab539[m
+Author: Milan Bastola <humanware@live.com>
+Date:   Sun May 21 21:55:10 2017 +0545
+
+    adding includes/gittest2.php to repo
+
+[33mcommit 87a91f3b15f8d305f07946d7931b73bd96f23f9a[m
+Author: Milan Bastola <humanware@live.com>
+Date:   Sun May 21 21:53:48 2017 +0545
+
+    Adding gittest.php to repo
+
+[33mcommit b0ae2a42aedde2a45cfff1db5589fdd72cb09593[m
+Author: Milan Bastola <humanware@live.com>
+Date:   Sun May 21 21:40:24 2017 +0545
+
+    First Commit
